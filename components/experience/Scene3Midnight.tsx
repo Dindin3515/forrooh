@@ -157,9 +157,9 @@ export default function Scene3Midnight({ onNext }: SceneProps) {
                 textShadow: '0 0 20px rgba(255,110,180,0.5)',
               }}
             >
-              Javascript
+              Rachna
             </p>
-            <span className="text-2xl">🎀</span>
+            <span className="text-2xl">💖</span>
           </motion.div>
         </div>
 
