@@ -33,14 +33,14 @@ const WISHES = [
   },
   {
     text: 'May love, laughter and light follow you everywhere',
-    sub: 'The world is brighter because you exist in it',
+    sub: 'ery laugh of yours feels like sunshine...',',
     icon: '💗',
     color: 'rgba(244,114,182,0.12)',
     border: 'rgba(244,114,182,0.25)',
     glow: 'rgba(244,114,182,0.15)',
   },
   {
-    text: 'Happy Birthday, Javascript',
+    text: 'Happy Birthday, rooh...🤍',
     sub: 'Year 22 — your most beautiful chapter yet',
     icon: '🎂',
     color: 'rgba(255,110,180,0.12)',
