@@ -87,7 +87,7 @@ export default function SceneFinal() {
               lineHeight: 1.4,
             }}
           >
-            Some moments are meant to be remembered forever
+            Not every day is magical... but today is
             <br />
             
           </motion.h1>
@@ -137,11 +137,11 @@ export default function SceneFinal() {
                 letterSpacing: '0.15em',
               }}
             >
-              Javascript
+              Rachna
             </motion.p>
             <p style={{ fontSize: '1.8rem', marginTop: '0.3rem' }}>🎀</p>
             <p className="text-white/20 text-xs tracking-widest mt-4" style={{ fontStyle: 'italic' }}>
-              22nd Birthday — 17-April-2026
+              22nd Birthday — 10-May-2026
             </p>
           </div>
         </div>
