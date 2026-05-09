@@ -62,7 +62,7 @@ export default function Scene1Door({ onNext }: SceneProps) {
           className="text-center mb-16"
         >
           <p className="text-pink-300/60 tracking-[0.4em] text-xs uppercase mb-3">A Midnight Memory</p>
-          <h1 className="text-white/20 tracking-[0.2em] text-sm uppercase">Interactive Birthday Experience</h1>
+          <h1 className="text-white/20 tracking-[0.2em] text-sm uppercase">FOR SOMEONE TRULY SPECIAL 💖</h1>
         </motion.div>
 
         <div
@@ -182,7 +182,7 @@ export default function Scene1Door({ onNext }: SceneProps) {
             transition={{ duration: 3, repeat: Infinity }}
             className="text-white/25 text-xs tracking-widest"
           >
-            For Javascript
+            For Rooh..🤍
           </motion.p>
         </motion.div>
       </div>
